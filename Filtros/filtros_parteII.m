@@ -1,4 +1,4 @@
-%% Filtro pasa bajo - Segundo orden
+%% Filtro pasa bajo - primer orden
 clc
 clear all
 
@@ -14,7 +14,7 @@ figure(1)
 bode(H)
 grid('on')
 
-%% Filtro pasa alto - Segundo orden
+%% Filtro pasa alto - primer orden
 clc
 clear all
 
